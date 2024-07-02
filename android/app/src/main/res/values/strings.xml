@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">855923272547617</string>
+    <string name="facebook_client_token">6eb9869600431e0d73282d9b11a4a4c3</string>
+    <string name="onesignal_notification_accent_color">FF181818</string>
+</resources>
